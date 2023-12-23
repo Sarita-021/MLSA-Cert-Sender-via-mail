@@ -6,14 +6,14 @@ This repo send certificate to participants of MLSA event on their mail Id's. Fur
 
 ## Caution ‼️
 
-### Create a separate gmail id for his purpose to avoid any kind of problem.
+### Create a separate gmail id for this purpose to avoid any kind of problem.
    - Since this process requires your gmail id password and by chance your code get published on net or you give someone else your laptop
      with your repo left open then there are chances that your password got leaked and misused by someone else or even got hacked. So be careful while using.
 
 ## Customize your gmail account 
 
 1. Make sure you have turned on 2 step verification.
-   - To turn on 2 step veriication you can head over to your web browser and find there steps of how to turn on 2 step verification of your gmail account (you can easily find it.
+   - To turn on 2 step veriication you can head over to your web browser and find there steps of how to turn on 2 step verification of your gmail account (you can easily find it).
   
 2. Head over to 2 Step Verification section and follow the steps.
 
@@ -22,7 +22,7 @@ This repo send certificate to participants of MLSA event on their mail Id's. Fur
    <img width="500" alt="S1" src="https://github.com/Sarita-021/MLSA-Cert-Sender-via-mail/assets/121181405/638f1a28-322c-42c4-b175-dcb6014ec10f">
 
 4. Create a new App Password and copy the 16 Character code which will be visible
-   on your screen since you will be using that as your gmail password.
+   on your screen since you will be using that as your gmail password (if your actual password does not work).
 
    <br>
    <img width="500" alt="S2" src="https://github.com/Sarita-021/MLSA-Cert-Sender-via-mail/assets/121181405/aeaea863-4b04-481b-af81-7ace7ecf21d5">
@@ -87,8 +87,9 @@ python send-mail.py
 
 ## Here's how your mail look like
 
-![S5-Gmail](https://github.com/Sarita-021/MLSA-Cert-Sender-via-mail/assets/121181405/8e41ff88-de08-409b-8f44-2ecdc1a7ac19)
+<img width="500" alt="S4" src="https://github.com/Sarita-021/MLSA-Cert-Sender-via-mail/assets/121181405/8e41ff88-de08-409b-8f44-2ecdc1a7ac19" >
+<!-- ![S5-Gmail](https://github.com/Sarita-021/MLSA-Cert-Sender-via-mail/assets/121181405/8e41ff88-de08-409b-8f44-2ecdc1a7ac19) -->
 
-<br>
+
 # Well Done!!! You Did It.
 # Thank You
